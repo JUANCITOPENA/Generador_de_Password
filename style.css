@@ -87,7 +87,7 @@
 @media only screen and (max-width: 600px) {
   /* Estilos CSS a aplicar en pantallas con ancho menor a 600px */
   .container {
-    width: 90%;
+    width: 98%;
     height: auto;
   }
   
@@ -103,6 +103,9 @@
   #letrero,
   p {
     font-size: 24px;
+       font-weight: 700;
+    text-align: center;
+    padding-top: 5px;
   }
   
   input {
@@ -126,7 +129,7 @@
   .green-button,
   .yellow-button,
   .red-button {
-    width: 160px;
+    width: 210px;
   }
 }
 
