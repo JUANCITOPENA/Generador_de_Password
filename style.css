@@ -87,9 +87,9 @@
 @media only screen and (max-width: 600px) {
   /* Estilos CSS a aplicar en pantallas con ancho menor a 600px */
   .container {
-    width: 90%;
+    width: 95%;
     max-width: 450px; /*opcional: fijar un tamaño máximo*/
-    height: 100vh;
+    height: 90vh;
     margin: 0 auto; /*centrar horizontalmente*/
   }
   
